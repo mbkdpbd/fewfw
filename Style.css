@@ -1,0 +1,35 @@
+body{
+    background-color: blueviolet;
+}
+#C{
+    background-color: blue;
+}
+#AA{
+    background-color: aqua;
+}
+#A{
+border-color: black;
+background-color: cyan;
+width: 230px;
+height: 230px;
+}
+#B{
+    border-color: black;
+    background-color: cyan;
+    width: 230px;
+    height: 230px;
+    }
+#BB{
+    background-color: black;
+    color: white;
+    width: 260px;
+}
+#CC{
+    background-color: black;
+    color: white;
+    width: 260px;
+}        
+h2{
+    background-color: aqua;
+    width: 260px;
+}
